@@ -1,26 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Young+and+hot+.Net+developer)](https://git.io/typing-svg)
 
-# Привет, я Net-разработчик 👨‍💻
+# Hello, I'm a Net Developer 👨‍💻
 
-### Опыт работы:
-- **Unity:** Создание захватывающих игр, внимание к деталям и оптимизация для лучшего игрового опыта.
-- **Telegram Bot:** Разработка чат-ботов для автоматизации процессов и взаимодействия с пользователями.
-- **Client API:** Интеграция с внешними API, обеспечение клиентов актуальными данными.
-- **ASP.NET:** Погружение в мир веб-разработки с использованием различных фреймворков.
+### Professional Experience:
+- **Unity:** Crafting captivating games with a keen eye for detail and optimization for an enhanced gaming experience.
+- **Telegram Bot:** Developing chatbots to automate processes and interact seamlessly with users.
+- **Client API:** Integrating with external APIs, ensuring clients have access to real-time data.
+- **ASP.NET:** Immersing into the world of web development using various frameworks.
 
-### Опыт с базами данных:
-Работа с различными СУБД, включая:
-- **PostgreSQL:** Эффективное хранение и обработка данных.
-- **SQLite:** Легковесная, встроенная база данных для небольших проектов.
+### Database Expertise:
+Hands-on experience with various databases, including:
+- **PostgreSQL:** Efficiently storing and processing data.
+- **SQLite:** Lightweight, embedded database for smaller-scale projects.
 
-### Хобби:
-- 💪 Зал: Постоянное стремление к самосовершенствованию, как в коде, так и в физической форме.
-- 🚶 Простые прогулки: Время для раздумий и вдохновения.
-- 🖥️ Люблю писать софт для личных нужд: Создание инструментов, которые делают мою жизнь проще.
+### Hobbies:
+- 💪 Hitting the gym: Constantly striving for self-improvement, both in code and physical fitness.
+- 🚶 Simple strolls: Time for contemplation and inspiration.
+- 🖥️ Enjoy writing software for personal needs: Creating tools that make life easier.
 
-### Учеба:
-- Постоянное обучение и изучение новых технологий для постоянного роста в своей области.
+### Learning:
+- A perpetual learner, constantly exploring new technologies for continuous growth in my field.
 
-### Открыт к сотрудничеству и новым проектам! 🚀
+### Open to collaboration and new projects! 🚀
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DilemaFixer&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
