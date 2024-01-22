@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Young+and+hot+.Net+developer)](https://git.io/typing-svg)
-
-# Hello, I'm a Net Developer 👨‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+i+am+young+and+hot+.Net+developer)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keksikq09&label=Profile%20views&color=0e75b6&style=flat" alt="DilemaFixer" /> </p>
+# Hi!
 
 ### Professional Experience:
 - **Unity:** Crafting captivating games with a keen eye for detail and optimization for an enhanced gaming experience.
