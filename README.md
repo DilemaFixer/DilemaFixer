@@ -7,7 +7,3 @@ I want to create **new algorithms**, **innovative projects**, and **game-changin
 I chose the hard path — rejecting business and corporate success — in favor of my path as a **scientist**.  
 This journey is about **discovery**, **creativity**, and **growth**.
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
